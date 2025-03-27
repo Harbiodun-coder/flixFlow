@@ -52,9 +52,7 @@ FlixFlow is built using modern technologies for an optimal user experience:
    http://localhost:3000
    ```
 
-## 📖 Documentation
 
-Refer to the [Documentation](docs/README.md) for detailed instructions on configuring and using Appwrite within FlixFlow.
 
 ## 🤝 Contributing
 
