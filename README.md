@@ -1,12 +1,12 @@
-# 🎥 FlixFlow - Your Ultimate Anime Hub
+# 🎥 FlixFlow - Your Ultimate Movies Hub
 
-FlixFlow is a sleek and user-friendly anime browsing app that connects users to an immersive world of anime. Built with React for the frontend and powered by Appwrite for backend services, FlixFlow ensures seamless navigation, secure data handling, and personalized features for every anime enthusiast.
+FlixFlow is a sleek and user-friendly movies browsing app that connects users to an immersive world of anime. Built with React for the frontend and powered by Appwrite for backend services, FlixFlow ensures seamless navigation, secure data handling, and personalized features for every anime enthusiast.
 
 ## 🚀 Features
 
-- **Dynamic Anime Search:** Quickly find anime by title, genre, or keywords.
-- **Anime Details:** Explore in-depth profiles with synopses, characters, voice actors, trailers, and reviews.
-- **Favorites & Watchlist:** Save your must-watch anime and track your watched list.
+- **Dynamic Movies Search:** Quickly find anime by title, genre, or keywords.
+- **Movie Details:** Explore in-depth profiles with synopses, characters, voice actors, trailers, and reviews.
+- **Favorites & Watchlist:** Save your must-watch movies and track your watched list.
 - **Responsive Design:** Optimized for a flawless experience on both mobile and desktop devices.
 
 ## 🛠️ Technology Stack
@@ -22,7 +22,7 @@ FlixFlow is built using modern technologies for an optimal user experience:
 
 ### Prerequisites
 - Node.js (v14+)
-- MyAnimeList API key (or Jikan API)
+- The movie database API
 - Appwrite instance (local or cloud)
 
 ### Installation
